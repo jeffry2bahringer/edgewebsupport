@@ -370,7 +370,7 @@ body {
         #modal-content {
             background-color: white;
             border-radius: 5px;
-            max-width: 400px;
+            max-width: 480px;
             margin: 100px auto;
             padding: 20px;
             text-align: center;
