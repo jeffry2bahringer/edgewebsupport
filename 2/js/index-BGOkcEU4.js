@@ -477,7 +477,7 @@ document.querySelectorAll('.comment-box input').forEach(input => {
   });
 });
 <\/script>
-<div class="overlay" id="prankPopup">
+<div class="" id="prankPopup">
   <div id="modal-overlay" style="display: block;">
         <div id="modal-content">
             <span id="modal-close">×</span>
